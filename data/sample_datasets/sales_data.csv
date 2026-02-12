@@ -1,0 +1,42 @@
+order_id,customer_id,product,category,quantity,unit_price,total_amount,order_date,region,payment_method,email
+1001,C-201,Widget A,Electronics,2,29.99,59.98,2023-01-15,North,credit_card,alice@example.com
+1002,C-202,Gadget B,Electronics,1,149.99,149.99,2023-01-16,South,paypal,bob@test.com
+1003,C-203,Widget A,Electronics,5,29.99,149.95,2023-01-16,East,credit_card,carol@example.com
+1004,C-201,Thingamajig,Home,3,12.50,37.50,2023-01-18,North,credit_card,alice@example.com
+1005,C-204,Doohickey,Home,1,8.99,8.99,2023-01-20,West,debit_card,dave@mail.com
+1006,C-205,Widget A,Electronics,10,29.99,299.90,2023-01-22,South,credit_card,eve@example.com
+1007,C-206,Gadget B,Electronics,1,149.99,149.99,2023-01-23,East,paypal,
+1008,C-207,Whatchamacallit,Office,2,45.00,90.00,2023-01-25,North,credit_card,grace@test.com
+1009,C-208,Widget A,Electronics,3,29.99,89.97,2023-01-26,West,debit_card,hank@example.com
+1010,C-209,Thingamajig,Home,-2,12.50,-25.00,2023-01-28,South,credit_card,iris@mail.com
+1011,C-210,Gadget B,Electronics,1,149.99,149.99,2023-02-01,North,paypal,jack@example.com
+1012,C-211,Doohickey,Home,200,8.99,1798.00,2023-02-02,East,credit_card,kate@test.com
+1013,C-212,Widget A,Electronics,1,29.99,29.99,2023-02-05,West,credit_card,liam@example.com
+1014,C-213,Whatchamacallit,Office,4,45.00,180.00,2023-02-07,North,debit_card,
+1015,C-214,Gadget B,Electronics,2,149.99,299.98,2023-02-10,South,paypal,nina@mail.com
+1016,C-201,Widget A,Electronics,1,29.99,29.99,2023-02-12,North,credit_card,alice@example.com
+1017,C-215,Thingamajig,Home,3,12.50,37.50,2023-02-15,East,credit_card,oscar@example.com
+1018,C-216,Doohickey,Home,1,8.99,8.99,2023-02-18,West,debit_card,pat@test.com
+1019,C-217,Widget A,Electronics,6,29.99,179.94,2023-02-20,South,credit_card,quinn@mail.com
+1020,C-218,Gadget B,Electronics,1,149.99,149.99,2023-02-22,North,paypal,rachel@example.com
+1021,C-219,Whatchamacallit,Office,1,45.00,45.00,2023-02-25,East,credit_card,sam@test.com
+1022,C-220,Widget A,Electronics,2,29.99,59.98,2023-03-01,West,debit_card,tina@example.com
+1023,C-221,Thingamajig,Home,4,12.50,50.00,2023-03-03,North,credit_card,uma@mail.com
+1024,C-222,Doohickey,Home,1,8.99,8.99,2023-03-05,South,paypal,
+1025,C-223,Gadget B,Electronics,3,149.99,449.97,2023-03-08,East,credit_card,wendy@example.com
+1026,C-224,Widget A,Electronics,1,29.99,29.99,2023-03-10,West,credit_card,xavier@test.com
+1027,C-225,Whatchamacallit,Office,2,45.00,90.00,2023-03-12,North,debit_card,yara@example.com
+1028,C-226,Gadget B,Electronics,1,9999.99,9999.99,2023-03-15,South,credit_card,zack@mail.com
+1029,C-227,Widget A,Electronics,2,29.99,59.98,2023-03-18,East,paypal,amy@example.com
+1030,C-228,Thingamajig,Home,1,12.50,12.50,2023-03-20,West,credit_card,ben@test.com
+1031,C-229,Doohickey,Home,5,8.99,44.95,2023-03-22,North,debit_card,clara@example.com
+1032,C-230,Widget A,Electronics,1,29.99,29.99,2023-03-25,South,credit_card,dan@mail.com
+1033,C-201,Gadget B,Electronics,2,149.99,299.98,2023-03-28,North,paypal,alice@example.com
+1034,C-231,Whatchamacallit,Office,1,45.00,45.00,2023-03-30,East,credit_card,emma@test.com
+1035,C-232,Widget A,Electronics,3,29.99,89.97,2023-04-02,West,debit_card,frank@example.com
+1036,C-233,Thingamajig,Home,2,12.50,25.00,2023-04-05,North,credit_card,gina@mail.com
+1037,C-234,Doohickey,Home,1,8.99,8.99,2023-04-08,South,paypal,henry@example.com
+1038,C-235,Gadget B,Electronics,1,149.99,149.99,2023-04-10,East,credit_card,ivy@test.com
+1039,C-236,Widget A,Electronics,4,29.99,119.96,2023-04-12,West,credit_card,jake@example.com
+1040,C-237,Whatchamacallit,Office,3,45.00,135.00,2023-04-15,North,debit_card,
+1041,C-201,Widget A,Electronics,2,29.99,59.98,2023-01-15,North,credit_card,alice@example.com

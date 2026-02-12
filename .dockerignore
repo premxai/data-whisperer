@@ -1,0 +1,16 @@
+__pycache__
+*.py[cod]
+*.egg-info
+.git
+.gitignore
+.env
+venv/
+.venv/
+vectorstore/
+outputs/
+.vscode/
+.idea/
+*.md
+tests/
+data/sample_datasets/
+.pytest_cache/
