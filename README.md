@@ -32,7 +32,7 @@ Upload a dataset. Get insights in minutes. No data science experience required.
 ### Option 1: Docker (recommended)
 
 ```bash
-git clone https://github.com/your-username/data-whisperer.git
+git clone https://github.com/premxai/data-whisperer.git
 cd data-whisperer
 cp .env.example .env
 docker-compose up
@@ -49,7 +49,7 @@ The Ollama model is pulled automatically on first run.
 ### Option 2: Local Setup
 
 ```bash
-git clone https://github.com/your-username/data-whisperer.git
+git clone https://github.com/premxai/data-whisperer.git
 cd data-whisperer
 python -m venv venv
 source venv/bin/activate        # Linux/macOS
@@ -225,7 +225,7 @@ Try these from `data/sample_datasets/`:
 Deploy on any VPS or server:
 
 ```bash
-git clone https://github.com/your-username/data-whisperer.git
+git clone https://github.com/premxai/data-whisperer.git
 cd data-whisperer
 cp .env.example .env
 # edit .env if needed
